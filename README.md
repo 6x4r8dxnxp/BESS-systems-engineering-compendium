@@ -13,9 +13,10 @@ instruments or flexibility resources.
 
 - **Insight Paper** (German): Executive summary; grid connection scarcity, project 
   maturity, and operating logic under European scale-up
-- **Systems Engineering & Operations Compendium** (German): Full technical treatment 
+- **Systems Engineering & Operations Compendium** (German, 69 pages): Full technical treatment 
   covering project development through end-of-life management
-- **English Edition**: Forthcoming (weekend release)
+- **English Edition**: (65 pages): Full technical treatment 
+  covering project development through end-of-life management
 
 ## Scope
 
@@ -41,7 +42,7 @@ The compendium treats BESS as coupled system bodies integrating:
 |----------|----------|--------|
 | Insight Paper | Deutsch | ✓ Available |
 | Full Compendium | Deutsch | ✓ Available |
-| English Edition | English | Forthcoming |
+| English Edition | English | ✓ Available |
 
 ## Author
 
